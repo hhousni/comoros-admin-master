@@ -22,7 +22,7 @@ IDs nest: `KM` → island `KM1` → prefecture `KM15` → commune `KM151` → vi
 
 Notes:
 - Prefecture `KM29` Kartala has one commune, `KM291` Cratère du Karthala, the uninhabited crater zone: it has no village.
-- The 2011 law (loi 11-006/AU) lists 16 prefectures and INSEED 18 (Moya and Mboudé separate). These tables follow OCHA (17): commune Moya `KM151` is in prefecture Sima `KM15`; Mboudé is in Mitsamiouli `KM26`.
+- The 2011 law (loi 11-006/AU) lists 16 prefectures and INSEED 18 (Moya and Mboudé separate). These tables follow OCHA (17): commune Moya `KM151` is in prefecture Sima `KM15`; Mboudé and Mitsamiouli form one prefecture, Mitsamiouli-Mboudé `KM26`.
 
 ## Rules
 
